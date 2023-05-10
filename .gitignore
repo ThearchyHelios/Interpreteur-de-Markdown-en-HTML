@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 ./markdown
 *.o
 ./output.html
-=======
-<<<<<<< HEAD
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -15,9 +12,6 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
-=======
 ./markdown
 *.o
 ./output.html
->>>>>>> 8cd8f9e (Initial commit)
->>>>>>> d8526d0 (Initial commit)

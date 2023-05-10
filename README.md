@@ -1,3 +1,4 @@
+[![C/C++ CI](https://github.com/ThearchyHelios/Interpreteur-de-Markdown-en-HTML/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ThearchyHelios/Interpreteur-de-Markdown-en-HTML/actions/workflows/c-cpp.yml)
 # Interpréteur de Markdown en HTML
 Un projet qui compile les fichiers markdown en fichiers HTML et les affiche dans un navigateur web.
 ![Markdown to HTML](https://thearchyhelios.com/images/INF404/Markdown%20to%20HTML.png)
