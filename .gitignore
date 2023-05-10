@@ -1,0 +1,3 @@
+./markdown
+*.o
+./output.html

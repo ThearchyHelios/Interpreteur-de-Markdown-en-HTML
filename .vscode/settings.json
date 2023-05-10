@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "client.h": "c",
+        "unistd.h": "c",
+        "inet.h": "c",
+        "parser.h": "c",
+        "lexer.h": "c",
+        "stdio.h": "c"
+    }
+}

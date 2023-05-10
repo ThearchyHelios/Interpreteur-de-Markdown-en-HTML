@@ -1,0 +1,6 @@
+- [ ] checkbox 1 not checked
+- [x] checkbox 2 checked
+  - [ ] checkbox 2.1 not checked
+    - [x] checkbox 2.1.1 checked
+  - [x] checkbox 2.2 checked
+- [ ] checkbox 3 not checked
